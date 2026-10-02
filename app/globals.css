@@ -1,0 +1,6 @@
+body { margin: 0; font-family: Georgia, serif; color: #222; }
+.wrap { max-width: 680px; margin: 0 auto; padding: 64px 20px; }
+.lead { color: #666; }
+.posts { list-style: none; padding: 0; }
+.posts li { padding: 16px 0; border-bottom: 1px solid #eee; font-size: 20px; }
+.posts span { display: block; font-size: 13px; color: #999; font-family: system-ui, sans-serif; }
